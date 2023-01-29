@@ -34,7 +34,7 @@ input:not([type="radio"]):not([type="checkbox"]), button {
 
 body {
 	background: var(--light);
-	background-image: url(/images/1.jpg);
+	background-image: url('./images/1.jpg');
 	background-size: cover;
 	color: white;
 }
